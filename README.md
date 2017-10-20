@@ -1,3 +1,11 @@
+## My Notes
+
+Run `npm install -save axios` to install Axios.
+
+Run server with `npm start`.
+
+
+## Notes from React
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
